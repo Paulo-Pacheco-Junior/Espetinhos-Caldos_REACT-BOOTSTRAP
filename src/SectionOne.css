@@ -1,0 +1,12 @@
+#image-container {
+    background-image: url('https://img.freepik.com/fotos-gratis/carne-fresca-preparada-em-chamas_144627-34414.jpg?w=740&t=st=1663374877~exp=1663375477~hmac=8b35596a891a6fdc1a1aca2f1537cc8e159087a5b56589fa6ad628252cc3d610');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width:100%;
+    min-height:380px;
+}
+
+#image-overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+}
